@@ -1,0 +1,139 @@
+body {
+   font-family: 'Istok Web',sans-serif;
+}
+.header{
+    background: #775ba3;
+}
+.nav-link{
+    font-size: 14px;
+}
+.btn-user{
+    background: transparent;
+    border: none;
+    color: aliceblue;
+    font-size: 26px;
+}
+.carousel-indicators [data-bs-target]{
+    width: 6px;
+    height: 6px;
+    opacity: 1;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 50%;
+}
+.carousel-indicators .active{
+    background-color: white;
+    width: 4px;
+    height: 4px;
+    margin-top: 1.5px;
+}
+.arrow{
+    font-size: 25px;
+}
+.main-title{
+    color: #775ba3;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+.main-text{
+    font-size: 23px;
+    font-weight: bold;
+    color: #4b3f55;
+    text-align: center;
+}
+.hr{
+    color: #28754c;
+}
+.icon{
+    font-size: 60px;
+    border: 3px solid #4b3f55;
+    padding: 10px 20px 5px 20px;
+    border-radius: 50%;
+    color: #4b3f55;
+}
+.user-card p{
+    margin-top: 60px;
+    color: #4b3f55;
+    font-size: 13px;
+    font-weight: bold;
+}
+.card-title{
+    color: #91c5a9;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.border-user{
+    border-top:3px solid #91c5a9;
+    border-bottom:3px solid #91c5a9;
+}
+.job{
+    font-size: 12px;
+    font-weight: bold;
+    color: #91c5a9;
+    margin-left: 10px;
+    text-transform: uppercase;
+}
+.btn{
+    border-radius: 0;
+}
+.card-text{
+    color: #4b3f55;
+    font-size: 13px;
+}
+.color-btn-1{
+    background-color: #4261bc;
+}
+.color-btn-2 {
+    background-color: #bc5a42;
+}
+.color-btn-3 {
+    background-color: #4261bc;
+}
+.color-btn-4 {
+    background-color: #f35fb0;
+}
+.color-btn-5 {
+    background-color: #2ec3f5;
+}
+.color-btn-6 {
+    background-color: #dd0101;
+}
+.icon-bottom{
+    color: #fff;
+    font-size: 25px;
+}
+.pad{
+    padding: 15px;
+}
+.pad-1{
+    padding: 11px;
+}
+.footer{
+    margin-top: 70px;
+    background-color: #54865d;
+    padding: 10px 0;
+}
+.footer-text{
+    font-size: 14px;
+    margin-top: 20px;
+    color: #fff;
+}
+.modal-title{
+    color: #775ba3;
+}
+.col-form-label{
+    color: #4b3f55;
+}
+.sing-in-btn{
+    background-color: #775ba3;
+    color: #fff;
+}
+.card-body{
+    width: 33.3333%;
+}
+.btn-close{
+    background-color: #775ba3;
+    opacity: 1;
+}
